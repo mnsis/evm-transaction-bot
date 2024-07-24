@@ -117,5 +117,3 @@ Ensure that you have the following installed on your machine:
    git remote add origin https://github.com/mnsis/evm-transactions-monitor.git
    git push -u origin master
    ```
-
-By following these steps, you can set up, run, and upload the script to GitHub. If you encounter any issues or have any questions, feel free to ask!
