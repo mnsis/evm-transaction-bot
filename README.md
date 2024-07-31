@@ -27,7 +27,7 @@ Ensure that you have the following installed on your machine:
 #### Cloning the Repository
 1. Clone the repository from GitHub:
    ```sh
-   git clone https://github.com/yourusername/evm-transactions-monitor.git
+   git clone https://github.com/mnsis/evm-transactions-monitor.git
    cd evm-transactions-monitor
    ```
 
